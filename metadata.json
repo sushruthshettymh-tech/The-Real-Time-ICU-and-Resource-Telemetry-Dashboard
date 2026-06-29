@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Hospital Resource Monitor",
+  "description": "Real-time tracking of critical medical assets, including ICU beds, ventilator usage, oxygen supply levels, and AI demand forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
